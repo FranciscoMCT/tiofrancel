@@ -1,0 +1,8 @@
+CREATE TABLE Celulares (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nome VARCHAR(100) NOT NULL,
+    Marca VARCHAR(50) NOT NULL,
+    Preco DECIMAL(10,2) NOT NULL,
+    Descricao TEXT,
+    ImagemURL VARCHAR(255)
+);

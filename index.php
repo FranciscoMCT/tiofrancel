@@ -10,7 +10,7 @@ require 'db.php';
 </head>
 <body>
     <h1>📱 Loja de Celulares</h1>
-    <a href="cadastrar.php">Cadastrar novo celular</a>
+    <a href="cadastro.php">Cadastrar novo celular</a>
     <hr>
 
     <?php
